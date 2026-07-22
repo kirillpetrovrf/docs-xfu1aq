@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-fa2aqb.sampiyonkokorec.com/sitemap.xml
